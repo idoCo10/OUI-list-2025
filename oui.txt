@@ -1,5 +1,5 @@
 ==============================
-Update Date: 04/12/2025 23:04
+Update Date: 04/12/2025 23:10
 Total Records: 38400.
 ==============================
 00:00:00 XEROX CORPORATION (US)
@@ -23144,8 +23144,8 @@ Total Records: 38400.
 64:FD:96 Sagemcom Broadband SAS (FR)
 64:FE:15 Flaircomm Microelectronics,Inc. (CN)
 64:FF:0A WNC Corporation (TW)
-66:20:E1 T3 Technology Co., Ltd. (TH)
-66:20:E3 T3 Technology Co., Ltd. (TH)
+66:20:E1 T3 Technology Co., Ltd. [True Router] (TH)
+66:20:E3 T3 Technology Co., Ltd. [True Router] (TH)
 68:02:35 Konten Networks Inc. (TW)
 68:02:B8 Compal Broadband Networks, Inc. (TW)
 68:04:89 Cisco Systems, Inc (US)
